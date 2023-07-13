@@ -3,11 +3,11 @@
 The idea of the project is to use ROS to simulate a 6 DoF robotic arm manipulator. The simulation includes creating a URDF file, path planning, and controlling the robot manipulator. 
 ## Milestone 1: Create URDF and gui to change robot angles
 ### Steps:
-  1- Run vis.launch
+  1- Run vis.launch.
   
-  2- Load robot model on rviz
+  2- Load robot model on rviz.
   
-  3- Change fixed frame to base link
+  3- Change fixed frame to base link.
 ### Output:
 ![image](https://github.com/MostafaELFEEL/6-DoF-Manipulator-Simulation/assets/106331831/8c8e17c6-66cf-40d8-b6cf-232256babda4)
 
