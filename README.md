@@ -1,4 +1,6 @@
 # 6-DoF-Manipulator-Simulation
+
+The idea of the project is to use ROS to simulate a 6 DoF robotic arm manipulator. The simulation includes creating a URDF file, path planning, and controlling the robot manipulator. 
 ## Milestone 1: Create URDF and gui to change robot angles
 ### Steps:
   1- Run vis.launch
